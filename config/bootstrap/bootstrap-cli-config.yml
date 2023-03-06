@@ -90,7 +90,6 @@ bootstrap:
                 idp-source-id: cdb8be02-d6c4-467b-846b-b27e4d7e0013 # for the AAD Group to be matched to cdf-group
                 idp-source-name: bootcamp-47-prod-uc-001-oee-read
 
-
     namespaces:
         # Typical config will have a namespace for data sources ("src") and a namespace for use cases ("uc")
         - ns-name: src
